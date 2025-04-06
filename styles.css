@@ -54,7 +54,8 @@ a{
   display: flex;
 }
 .cont-img img{
-  width: 100%;
+ height: 101%;
+ width: 100%;
 }
 
 .cont-texto h2{
